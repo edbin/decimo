@@ -1,1 +1,8 @@
-
+1. Utilice una fuente de google fonts (a su gusto).
+2. Cree una division en pantalla (div) con sombra (box shadow generator)
+3. Dentro de la division un titulo "Repaso de HTML y CSS" 
+4. Inserte una imagen o logo dentro de la division 
+5. Un parrafo con 20 palabras (lorem ipsum)
+6. Cree otra division con una clase llamada "caja"
+7. La division "caja" debe estar debajo de la primera division
+8. Rellene esta division con un color de su gusto
