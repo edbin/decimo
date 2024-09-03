@@ -1,0 +1,4 @@
+Crear un menu con html
+En el header cree el menu, debe llevar los siguientes enlaces: Inicio, Contacto, Servicios, Tienda
+Debajo del header, cree un div, dentro del div inserte una imagen relacionada al desarrollo web y un parrafo de 300 palabras
+En css dele estilo a la tipografia, tipo de fuente roboto, tamaño (menu 15px, parrafo 12px) 
