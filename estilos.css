@@ -74,4 +74,35 @@ body{
 	text-decoration: none;
 	padding: 12px 8px;
 	border-radius: 8px;
+	transition: all 0.3s;
+}
+
+.menu ul li a:hover,
+.menu ul li.active a{
+	color: #000;
+	background-color: #f6f6f6;
+}
+
+.menu ul li .icon {
+	font-size: 20px;
+}
+
+.menu ul li .text {
+	flex:1;
+}
+.menu ul li .arrow {
+	font-size: 14px;
+}
+
+.menu .sub-menu {
+	/*display: none;*/
+	margin-left: 20px;
+	padding-left: 20px;
+	padding-left: 5px;
+	border-left: 1px solid #f6f6f6;
+}
+
+.menu .sub-menu li a{
+	padding: 10px 8px;
+	font-size: 12px;
 }
