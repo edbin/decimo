@@ -1,0 +1,9 @@
+https://www.first.org/cvss/
+
+https://hunter.io/verify
+
+https://haveibeenpwned.com/
+
+https://dehashed.com/
+
+https://cve.mitre.org/
