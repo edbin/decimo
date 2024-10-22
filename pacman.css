@@ -1,0 +1,35 @@
+@keyframes pacman1{
+	0%{ transform: rotateZ(10deg); }
+  100%{ transform: rotateZ(45deg); }
+}
+
+@keyframes pacman2{
+	0%{ transform: rotateZ(10deg); }
+  100%{ transform: rotateZ(-45deg); }
+}
+
+.pacman{
+  position: absolute;
+  border: solid yellow 50px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  box-sizing: border-box;
+  border-color: yellow transparent yellow yellow;
+}
+
+.pacman1{
+  animation: pacman1 .3s infinite alternate linear;
+}
+
+.pacman2{
+  animation: pacman2 .3s infinite alternate linear;
+}
+
+.line{
+  width: 200%;
+  height: 0;
+  border: solid 10px;
+  border-image: linear-gradient(to right, #333 40%, rgba(255, 255, 255, 0) 20%);
+}
