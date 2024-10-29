@@ -1,0 +1,4 @@
+Tipo Práctico / Valor 27% 
+Instrucciones: Trabaje de forma clara y ordenada cada ejercicio. Cree una página web que contenga lo siguiente:
+Título: Ingreso al sistema, solicite el usuario y password (centrado). Tenga una imagen de fondo (cover), tipo de letra a su gusto, tamaño del titulo 25px, usuario y password 14px.
+Boton: Ingresar, color de fondo a su gusto y la letra también, tamaño 16px y al pasar el mouse (hover) que cambie de color.
